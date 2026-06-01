@@ -44,6 +44,7 @@ header button{
 header h1 button{
     font-size: 2rem;
     font-weight: bold;
+    color: white;
 }
 header nav ul li button{
     font-size: 1.2rem;
